@@ -21,3 +21,8 @@ I can highly recommend the servcies from Alexei at https://www.keebart.com/ incl
 - Miryoku-Corne-v4-16Layers.vil - Miryoku Layout for 8 layers (Layer 0 to 7) to be imported in VIAL
 
 For questions, create an issue.
+
+## My current keyboard layout
+
+Base layer plus three right thumb key layers for Symbols, Numbers and Functions Keys
+![image](https://github.com/user-attachments/assets/2098bd50-fc17-4ac1-afc6-0d7aa6dd5561)
