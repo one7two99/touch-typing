@@ -14,11 +14,10 @@ It includes ...
 
 ## Where do I buy my keyboards
 I can highly recommend the servcies from Alexei at https://www.keebart.com/ including the Discord online community.
+https://www.keebart.com/products/corne
+
 I am using the Corne v4.1 split keyboard with the 3x6 design and Kalih red switches.
 ![my-corne-split-keyboard](https://github.com/user-attachments/assets/35fc8540-4c90-4a21-b05c-017656646eac)
-
-
-https://www.keebart.com/products/corne
 
 ## Stuff to get your Corne v4 Split Keyboard up & running
 - keyboard-editor-miryoku.json - documentation of the keyboard layout
