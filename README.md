@@ -23,6 +23,18 @@ I can highly recommend the servcies from Alexei at https://www.keebart.com/ incl
 For questions, create an issue.
 
 ## My current keyboard layout
+This layout needs 8 layers in total and is based on the Miryoku layout.
+You can find the VIAL configuration file in this repo. It can be imported into your VIAL application.
+My Corne v4 keyboard is running with a modified firmware which supports 16 layers (Layer 0 to 15).
 
 Base layer plus three right thumb key layers for Symbols, Numbers and Functions Keys
 ![image](https://github.com/user-attachments/assets/2098bd50-fc17-4ac1-afc6-0d7aa6dd5561)
+
+The three layers for the left thumb keys Media, Navigation and Mouse control
+![image](https://github.com/user-attachments/assets/b176abb4-4355-42c5-a7eb-095efc3a6194)
+
+The Button layer
+![image](https://github.com/user-attachments/assets/bcbf85c0-dda1-4ae0-a91c-42ad911b7a04)
+
+
+
